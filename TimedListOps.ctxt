@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TimedListOps
+comment1.params=lst
+comment1.target=TimedListOps(java.util.List)
+comment2.params=
+comment2.target=int\ dLen()
+comment3.params=n
+comment3.target=java.lang.Object\ fetch(int)
+comment4.params=n\ e
+comment4.target=void\ insert(int,\ java.lang.Object)
+comment5.params=n
+comment5.target=java.lang.Object\ delete(int)
+numComments=6
